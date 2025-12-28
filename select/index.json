@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "モーメント",
+  "base_artist": "MIMI",
+  "createdAt": "2025-12-28T08:16:20.137407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロスト・イン・ザ・モーメント",
+      "artist": "We Came As Romans",
+      "has_synced": false,
+      "path": "select/01_ロスト・イン・ザ・モーメント_We_Came_As_Romans.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チェリッシュ・モーメント",
+      "artist": "チーター・ガールズ",
+      "has_synced": false,
+      "path": "select/02_チェリッシュ・モーメント_チーター・ガールズ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "モーメント",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/03_モーメント_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "モーメント",
+      "artist": "MIMI feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/04_モーメント_MIMI_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "モーメント",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/05_モーメント_MIMI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モーメント",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_モーメント_MIMI.txt"
+    }
+  ]
+}
